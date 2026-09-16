@@ -1,3 +1,0 @@
-pwd: Muestra la ruta completa del directorio
-cd: permite cambiar de directorios
-ls: lista todos los archivos o folders del directorio
