@@ -1,5 +1,5 @@
 ### primero generar la llave ssh
-ssh-keygen -t ed25519 -C "agramirezjimenez@gmail.com"
+ssh-keygen -t ed25519 -C "pavellinan@gmail.com"
 
 ### segundo levantar el servicio ssh en windows
 Get-Service -Name ssh-agent | Set-Service -StartupType Manual
